@@ -1,4 +1,10 @@
+[Go to top]: /README.md "Go to top"
 # Authoring-Tools
-Authoring Tools for writers
 
-See: License.md
+Authoring Tools for writers.
+
+See: [License.md](License.md)
+
+See: [Authoring-Tools.md](Authoring-Tools)
+
+[Go to top]
